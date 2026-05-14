@@ -1,0 +1,49 @@
+{
+  "api": {
+    "cors_origins": [
+      "*"
+    ],
+    "title": "Forex Trading Bot API",
+    "debug": false
+  },
+  "bot": {
+    "enabled": true,
+    "strategy_interval_seconds": 5,
+    "symbol": "EURUSD",
+    "lot_size": 0.01,
+    "magic_number": 20260504,
+    "comment": "Forex Trading Bot",
+    "emergency_close_positions": true
+  },
+  "strategy": {
+    "symbol": "XAUUSD",
+    "momentum_threshold": 0.0005,
+    "spread_limit": 0.0003,
+    "fast_ma_period": 9,
+    "slow_ma_period": 21,
+    "take_profit_pips": 100,
+    "stop_loss_pips": 30
+  },
+  "risk": {
+    "one_trade_at_a_time": true,
+    "max_trades_per_day": 5,
+    "max_daily_loss_percent": 5.0,
+    "max_open_positions": 1
+  },
+  "mt5": {
+    "terminal_path": "C:\\Program Files\\MetaTrader 5\\terminal64.exe",
+    "login": 5050050368,
+    "password": "-s8xDvVh",
+    "server": "MetaQuotes-Demo",
+    "timeout": 1006,
+    "portable": true,
+    "demo_balance": 10000.0,
+    "demo_currency": "USD",
+    "demo_leverage": 100
+  },
+  "logging": {
+    "max_in_memory_logs": 1000,
+    "log_file": "logs/bot.log",
+    "persist_to_file": true
+  }
+}
