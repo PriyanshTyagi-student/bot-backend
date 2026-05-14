@@ -1467,3 +1467,41 @@
 {"timestamp": "2026-05-14T17:57:00.250451Z", "level": "INFO", "message": "Existing open trades found; skipping new order.", "source": "bot", "metadata": {"open_trades": 1}}
 {"timestamp": "2026-05-14T17:57:09.181041Z", "level": "INFO", "message": "Bot stop requested.", "source": "bot", "metadata": null}
 {"timestamp": "2026-05-14T17:57:09.182550Z", "level": "INFO", "message": "Application shutdown complete.", "source": "app", "metadata": null}
+{"timestamp": "2026-05-14T17:57:54.648962Z", "level": "INFO", "message": "Application startup complete.", "source": "app", "metadata": null}
+{"timestamp": "2026-05-14T17:58:52.122083Z", "level": "INFO", "message": "Connected to MetaTrader 5.", "source": "mt5", "metadata": null}
+{"timestamp": "2026-05-14T17:58:52.123064Z", "level": "WARNING", "message": "Risk check blocked a trade", "source": "risk", "metadata": {"allowed": false, "should_stop_bot": false, "reasons": ["Only one trade is allowed at a time."], "daily_loss_percent": 0.005540335744354257}}
+{"timestamp": "2026-05-14T17:58:52.123103Z", "level": "INFO", "message": "Bot engine started", "source": "bot", "metadata": {"connected": true, "mode": "live", "message": "Connected to MetaTrader 5."}}
+{"timestamp": "2026-05-14T17:58:52.123663Z", "level": "WARNING", "message": "No candle data for EURUSD", "source": "strategy", "metadata": null}
+{"timestamp": "2026-05-14T17:58:52.124641Z", "level": "INFO", "message": "TEST_MODE enabled - forcing BUY signal", "source": "strategy", "metadata": null}
+{"timestamp": "2026-05-14T17:58:52.124948Z", "level": "INFO", "message": "PRICE: None", "source": "strategy", "metadata": null}
+{"timestamp": "2026-05-14T17:58:52.125286Z", "level": "INFO", "message": "Existing open trades found; skipping new order.", "source": "bot", "metadata": {"open_trades": 1}}
+{"timestamp": "2026-05-14T17:58:57.133215Z", "level": "WARNING", "message": "Risk check blocked a trade", "source": "risk", "metadata": {"allowed": false, "should_stop_bot": false, "reasons": ["Only one trade is allowed at a time."], "daily_loss_percent": 0.0054803321081216775}}
+{"timestamp": "2026-05-14T17:58:57.134497Z", "level": "WARNING", "message": "No candle data for EURUSD", "source": "strategy", "metadata": null}
+{"timestamp": "2026-05-14T17:58:57.135294Z", "level": "INFO", "message": "TEST_MODE enabled - forcing BUY signal", "source": "strategy", "metadata": null}
+{"timestamp": "2026-05-14T17:58:57.135953Z", "level": "INFO", "message": "PRICE: None", "source": "strategy", "metadata": null}
+{"timestamp": "2026-05-14T17:58:57.136543Z", "level": "INFO", "message": "Existing open trades found; skipping new order.", "source": "bot", "metadata": {"open_trades": 1}}
+{"timestamp": "2026-05-14T17:59:02.146926Z", "level": "WARNING", "message": "Risk check blocked a trade", "source": "risk", "metadata": {"allowed": false, "should_stop_bot": false, "reasons": ["Only one trade is allowed at a time."], "daily_loss_percent": 0.0055003333201992044}}
+{"timestamp": "2026-05-14T17:59:02.148192Z", "level": "WARNING", "message": "No candle data for EURUSD", "source": "strategy", "metadata": null}
+{"timestamp": "2026-05-14T17:59:02.148967Z", "level": "INFO", "message": "TEST_MODE enabled - forcing BUY signal", "source": "strategy", "metadata": null}
+{"timestamp": "2026-05-14T17:59:02.149620Z", "level": "INFO", "message": "PRICE: None", "source": "strategy", "metadata": null}
+{"timestamp": "2026-05-14T17:59:02.150345Z", "level": "INFO", "message": "Existing open trades found; skipping new order.", "source": "bot", "metadata": {"open_trades": 1}}
+{"timestamp": "2026-05-14T17:59:07.161319Z", "level": "WARNING", "message": "Risk check blocked a trade", "source": "risk", "metadata": {"allowed": false, "should_stop_bot": false, "reasons": ["Only one trade is allowed at a time."], "daily_loss_percent": 0.0056403418047127835}}
+{"timestamp": "2026-05-14T17:59:07.162891Z", "level": "WARNING", "message": "No candle data for EURUSD", "source": "strategy", "metadata": null}
+{"timestamp": "2026-05-14T17:59:07.163735Z", "level": "INFO", "message": "TEST_MODE enabled - forcing BUY signal", "source": "strategy", "metadata": null}
+{"timestamp": "2026-05-14T17:59:07.164848Z", "level": "INFO", "message": "PRICE: None", "source": "strategy", "metadata": null}
+{"timestamp": "2026-05-14T17:59:07.165576Z", "level": "INFO", "message": "Existing open trades found; skipping new order.", "source": "bot", "metadata": {"open_trades": 1}}
+{"timestamp": "2026-05-14T17:59:12.172118Z", "level": "WARNING", "message": "Risk check blocked a trade", "source": "risk", "metadata": {"allowed": false, "should_stop_bot": false, "reasons": ["Only one trade is allowed at a time."], "daily_loss_percent": 0.005020304230440439}}
+{"timestamp": "2026-05-14T17:59:12.173423Z", "level": "WARNING", "message": "No candle data for EURUSD", "source": "strategy", "metadata": null}
+{"timestamp": "2026-05-14T17:59:12.173938Z", "level": "INFO", "message": "TEST_MODE enabled - forcing BUY signal", "source": "strategy", "metadata": null}
+{"timestamp": "2026-05-14T17:59:12.174340Z", "level": "INFO", "message": "PRICE: None", "source": "strategy", "metadata": null}
+{"timestamp": "2026-05-14T17:59:12.174756Z", "level": "INFO", "message": "Existing open trades found; skipping new order.", "source": "bot", "metadata": {"open_trades": 1}}
+{"timestamp": "2026-05-14T17:59:17.176010Z", "level": "WARNING", "message": "Risk check blocked a trade", "source": "risk", "metadata": {"allowed": false, "should_stop_bot": false, "reasons": ["Only one trade is allowed at a time."], "daily_loss_percent": 0.005040305442517965}}
+{"timestamp": "2026-05-14T17:59:17.177240Z", "level": "WARNING", "message": "No candle data for EURUSD", "source": "strategy", "metadata": null}
+{"timestamp": "2026-05-14T17:59:17.177984Z", "level": "INFO", "message": "TEST_MODE enabled - forcing BUY signal", "source": "strategy", "metadata": null}
+{"timestamp": "2026-05-14T17:59:17.178601Z", "level": "INFO", "message": "PRICE: None", "source": "strategy", "metadata": null}
+{"timestamp": "2026-05-14T17:59:17.179174Z", "level": "INFO", "message": "Existing open trades found; skipping new order.", "source": "bot", "metadata": {"open_trades": 1}}
+{"timestamp": "2026-05-14T17:59:22.191671Z", "level": "WARNING", "message": "Risk check blocked a trade", "source": "risk", "metadata": {"allowed": false, "should_stop_bot": false, "reasons": ["Only one trade is allowed at a time."], "daily_loss_percent": 0.0050603066545809395}}
+{"timestamp": "2026-05-14T17:59:22.192683Z", "level": "WARNING", "message": "No candle data for EURUSD", "source": "strategy", "metadata": null}
+{"timestamp": "2026-05-14T17:59:22.193236Z", "level": "INFO", "message": "TEST_MODE enabled - forcing BUY signal", "source": "strategy", "metadata": null}
+{"timestamp": "2026-05-14T17:59:22.193729Z", "level": "INFO", "message": "PRICE: None", "source": "strategy", "metadata": null}
+{"timestamp": "2026-05-14T17:59:22.194175Z", "level": "INFO", "message": "Existing open trades found; skipping new order.", "source": "bot", "metadata": {"open_trades": 1}}
